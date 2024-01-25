@@ -11,7 +11,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  background: #17215e;
+  background: #141d54;
   min-height: 100vh;
 }
 

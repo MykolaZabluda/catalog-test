@@ -82,7 +82,6 @@ export default {
       flex-direction: row;
       justify-content: left;
       text-decoration: none;
-      font-family: Lexend, sans-serif;
       font-weight: 500;
       color: #f2a33a;
       margin-bottom: 35px;
@@ -99,7 +98,6 @@ export default {
     }
 
     .subtitle {
-      font-family: Inter, sans-serif;
       text-transform: uppercase;
       font-size: 16px;
       color: #bfc6ea;
@@ -107,7 +105,6 @@ export default {
     }
 
     .title {
-      font-family: Audiowide, sans-serif;
       font-size: 32px;
       color: #fff;
       text-align: left;
@@ -135,7 +132,6 @@ export default {
           height: 100%;
 
           &-title {
-            font-family: Audiowide, sans-serif;
             font-size: 24px;
             color: #e8e9ef;
             text-align: left;
@@ -144,7 +140,6 @@ export default {
           }
 
           &-subtitle {
-            font-family: Inter, sans-serif;
             font-size: 16px;
             color: #bfc6ea;
             text-align: left;
@@ -162,7 +157,6 @@ export default {
     padding: 0;
 
     &-subtitle {
-      font-family: Inter, sans-serif;
       font-size: 16px;
       color: #9fa5c6;
       text-transform: uppercase;
@@ -170,7 +164,6 @@ export default {
     }
 
     &-title {
-      font-family: Audiowide, sans-serif;
       font-size: 32px;
       color: #e8e9ef;
       text-transform: uppercase;
@@ -211,9 +204,6 @@ export default {
 
       &-title {
         font-weight: 400;
-        line-height: 160%;
-        letter-spacing: 0.2px;
-        font-family: Audiowide, sans-serif;
         font-size: 20px;
         color: #fff;
         text-align: left;
@@ -250,7 +240,6 @@ export default {
           }
 
           &-title {
-            font-family: Audiowide, sans-serif;
             font-size: 24px;
             color: #e8e9ef;
             text-transform: uppercase;
@@ -269,7 +258,6 @@ export default {
           border-radius: 24px;
 
           &-text {
-            font-family: Inter, sans-serif;
             font-size: 16px;
             color: #bfc6ea;
             text-align: left;
@@ -302,7 +290,6 @@ export default {
           }
 
           &-title {
-            font-family: Audiowide, sans-serif;
             font-size: 24px;
             color: #e8e9ef;
             text-transform: uppercase;
@@ -321,7 +308,6 @@ export default {
           border-radius: 24px;
 
           &-text {
-            font-family: Inter, sans-serif;
             font-size: 16px;
             color: #bfc6ea;
             text-align: left;
@@ -354,7 +340,6 @@ export default {
           }
 
           &-title {
-            font-family: Audiowide, sans-serif;
             font-size: 24px;
             color: #e8e9ef;
             text-transform: uppercase;
@@ -373,7 +358,6 @@ export default {
           border-radius: 24px;
 
           &-text {
-            font-family: Inter, sans-serif;
             font-size: 16px;
             color: #bfc6ea;
             text-align: left;

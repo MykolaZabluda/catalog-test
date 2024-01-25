@@ -15,17 +15,6 @@ import keyboard from "@/assets/keyboard.svg"
 import headphone from "@/assets/headphone.svg"
 import {FILTER_TYPES} from "@/shared/button-helpers";
 
-// const url = new URL('https:/localhost:8080/CardContent?minPrice=20&maxPrice=100');
-//
-// const filters = [
-//     { key: 'minPrice', value: 20 },
-//     { key: 'maxPrice', value: 100 },
-// ];
-//
-// filters.forEach(item => {
-//     window.location.url.searchParams.append(item.key, item.value);
-// });
-
 export const CARD_DATA = [
     {
         id: "1",

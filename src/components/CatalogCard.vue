@@ -142,18 +142,14 @@ export default {
 
       &-left {
         &-title {
-          font-family: Audiowide, sans-serif;
           font-size: 20px;
           color: #fff;
           text-align: left;
           font-weight: 400;
-          line-height: 32px; /* 160% */
-          letter-spacing: 0.2px;
           text-transform: uppercase;
         }
 
         &-subtitle {
-          font-family: Inter, sans-serif;
           font-size: 16px;
           color: #fff;
           text-align: left;

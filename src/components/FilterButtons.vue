@@ -56,7 +56,6 @@ export default {
   padding: 5px 25px;
 
   button {
-    font-family: Lexend, sans-serif;
     padding: 12px 24px;
     border-radius: 25px;
     font-size: 16px;
